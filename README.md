@@ -8,7 +8,8 @@ Image Capture: Capture and save images for training the recognition model.
 Manual Attendance: Option to manually fill attendance records.
 CSV Export: Generate attendance reports in CSV format.
 Database Integration: Store attendance records in a MySQL database.
-Technologies Used
+
+#Technologies Used
 Python
 OpenCV
 Tkinter
